@@ -1,0 +1,16 @@
+📂 About – Q61–70 (100 Days of Code Series)
+
+This folder contains solutions for Questions 61 to 70 of my 100 Days of Code challenge.
+The focus in this stage is on building stronger fundamentals in C programming while applying logic to real problem statements.
+
+🔹 Highlights of this section:
+
+Programs on arrays, loops, and conditional statements
+
+Practice with basic string handling and number operations
+
+Step-by-step strengthening of problem-solving skills
+
+Preparation for slightly more advanced concepts in the next phase
+
+These 10 codes mark consistent growth in applying concepts practically, helping me stay disciplined and progress smoothly through the challenge.
