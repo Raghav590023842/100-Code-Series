@@ -1,6 +1,6 @@
-### 📂 About – Days 71–80 (100 Days of Code Series)
+### 📂 About – q71-80 (100 Days of Code Series)
 
-This folder contains programs written between **Day 71 and Day 80** of my *100 Days of Code journey*.
+This folder contains **ques 71 and ques 80** of my *100 Days of Code journey*.
 Each day focuses on practicing different programming concepts, strengthening logic, and building consistency through daily coding.
 
 🔹 **Highlights of this section**:
@@ -11,6 +11,3 @@ Each day focuses on practicing different programming concepts, strengthening log
 * Strengthening **C programming fundamentals** through real examples
 
 This set of 10 programs represents steady progress in my coding journey, helping me get closer to completing the **100-day challenge**.
-
-
-
