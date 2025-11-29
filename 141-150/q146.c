@@ -29,7 +29,7 @@ int main() {
     printf("Joining Date (dd mm yyyy): ");
     scanf("%d %d %d", &e.jd.day, &e.jd.month, &e.jd.year);
 
-    printf("\nName: %s | ID: %d | Joining Date: %02d/%02d/%4d",e.name, e.ID,e.jd.day, e.jd.month, e.jd.year);
+    printf("\nName: %s | ID: %d | Joining Date: %d/%d/%d",e.name, e.ID,e.jd.day, e.jd.month, e.jd.year);
     return 0;
 }
 
